@@ -1,6 +1,6 @@
- différents métier de l’informatique 
+ # différents métier de l’informatique
 
-En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique. 
+En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
 
 Dans le développement informatique il y a les développeur web, d’application ou logiciel. Dans les développeur informatique il y a les Back end qui sont les développeur qui vont être chargés que le site fonctionne et les front end qui eux vont être chargés de la mise en page du site.
 
@@ -17,11 +17,11 @@ La sécurité informatique fait aussi parti de l’informatique maintenant car b
 
 
 
-Les différents IDE
+# Les différents IDE
 
 Les IDE (environnement de développement intégré)  sont des outils qui facilitent la tâche des programmeurs. Ils ont tous une interface graphique et un éditeur de texte. Ils peuvent aussi permettent la coloration syntaxique en fonction du  langage, l’auto-complétion, des plugins etc …
- 
-Parmis les plus connu nous avons Visual Studio Code, Sublim text 3, atom notepad++, xCode, vim ou encore emacs. Il en existe des centaines ce n’est donc pas possible de tous les cités. 
+
+Parmis les plus connu nous avons Visual Studio Code, Sublim text 3, atom notepad++, xCode, vim ou encore emacs. Il en existe des centaines ce n’est donc pas possible de tous les cités.
 
 VSC est l’IDE de microsoft permet par exemple l'installation d’extension qui sont très pratique pour personnaliser son IDE. Il en existe pour tout, nouveau thème de coloration, ajout de marque-page, prise en charge de nouveaux langage etc… il en existe des centaines et pour tout. De plus il est gratuit et possède une grande communauté réactive.
 
@@ -35,7 +35,7 @@ Xcode quant à lui est un IDE propre à Apple qui permet de programmer sur ses a
 
 Vim et Emacs sont des éditeurs disponible depuis le CMD sur Unix. Ils sont peut être plus difficile à utiliser au début car très différent des éditeurs de textes classiques.
 
-Les bonnes pratiques du code informatique
+# Les bonnes pratiques du code informatique
 
 Un code se doit d’être compréhensible par ceux ne l’ayant pas écrit. Il doit donc être facile à lire, être organisé, être explicite et être soigné. 
 Pour qu’il soit facile à lire il faut que les noms de variables et de fonction soient explicite pour bien s’y retrouver lorsqu’on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle.
