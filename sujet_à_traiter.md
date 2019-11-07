@@ -1,4 +1,4 @@
- ## différents métier de l’informatique
+ ## Différents métier de l’informatique
 
 En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
 
