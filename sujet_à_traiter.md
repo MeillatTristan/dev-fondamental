@@ -2,12 +2,12 @@
 
 En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
 
-Dans le développement informatique il y a les développeur web, d’application ou logiciel. Dans les développeur informatique il y a les Back end qui sont les développeur qui vont être chargés que le site fonctionne et les front end qui eux vont être chargés de la mise en page du site.
+Dans le développement informatique il y a les développeurs web, d’application ou logiciel. Dans les développeurs informatiques il y a les Back end qui sont les développeurs qui vont être chargés que le site fonctionne et les front end qui ceux vont être chargés de la mise en page du site.
 
 Les informaticiens réseaux, s’occupe des bases de données, du réseau internet.
 Le digital est la pour mettre en forme et créer un designs qui va être utilisé avec ce que fait le développeur pour créer quelque chose de “fini”.
 
-La sécurité informatique fait aussi parti de l’informatique maintenant car beaucoup de personne utilise internet se connecte à des sites entre des choses confidentiel et donc cela doit être protéger, même les codes utiliser pour faire des pages informatique ou encore des jeux doivent être sécurisé pour éviter tout vole ou usurpation d’identité. Les informaticiens qui sont formés pour la sécurité sont très import pour le bon fonctionnement d’un site ou d’un jeu.
+La sécurité informatique fait aussi parti de l’informatique maintenant car beaucoups de personnes utilisent internet, se connecte à des sites, et entre des choses confidentiel et donc cela doit être protégées, même les codes utilisés pour faire des pages informatiques ou encore des jeux doivent être sécurisées pour éviter tout vole ou usurpation d’identité. Les informaticiens qui sont formés pour la sécurité sont très import pour le bon fonctionnement d’un site ou d’un jeu.
 
 
 
