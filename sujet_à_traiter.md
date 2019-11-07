@@ -2,12 +2,12 @@
 
 En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
 
-Dans le développement informatique il y a les développeur web, d’application ou logiciel. Dans les développeur informatique il y a les Back end qui sont les développeur qui vont être chargés que le site fonctionne et les front end qui eux vont être chargés de la mise en page du site.
+Dans le développement informatique il y a les développeurs web, d’application ou logiciel. Dans les développeurs informatiques il y a les Back end qui sont les développeurs qui vont être chargés que le site fonctionne et les front end qui ceux vont être chargés de la mise en page du site.
 
 Les informaticiens réseaux, s’occupe des bases de données, du réseau internet.
 Le digital est la pour mettre en forme et créer un designs qui va être utilisé avec ce que fait le développeur pour créer quelque chose de “fini”.
 
-La sécurité informatique fait aussi parti de l’informatique maintenant car beaucoup de personne utilise internet se connecte à des sites entre des choses confidentiel et donc cela doit être protéger, même les codes utiliser pour faire des pages informatique ou encore des jeux doivent être sécurisé pour éviter tout vole ou usurpation d’identité. Les informaticiens qui sont formés pour la sécurité sont très import pour le bon fonctionnement d’un site ou d’un jeu.
+La sécurité informatique fait aussi parti de l’informatique maintenant car beaucoups de personnes utilisent internet, se connecte à des sites, et entre des choses confidentiel et donc cela doit être protégées, même les codes utilisés pour faire des pages informatiques ou encore des jeux doivent être sécurisées pour éviter tout vole ou usurpation d’identité. Les informaticiens qui sont formés pour la sécurité sont très import pour le bon fonctionnement d’un site ou d’un jeu.
 
 
 
@@ -44,4 +44,14 @@ Pour qu’il soit facile à lire il faut que les noms de variables et de fonctio
 
 ## La veille technologique : les avantages, inconvénients etc…
 
+<<<<<<< HEAD
 La veille informatique consiste à s'informer systématiquement sur les nouvelles technique récentes,les mise a jour. Les avantages de la veille technologique c'est d'être toujours au courant de ce que qui ce passe sur les dispositions commerciales sur les techniques récentes. Il y a surtout un très gros inconvénient a la veille technologique c'est qui si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language tu doit te mettre a jour dessus, et si quelque mois après tout change, tu dois encore te mettre a jour.
+=======
+La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation(piquer d'un site).
+
+Mais avec mes mots c'est plutot un procéde du faite de ce mettre a jour sur un produit, ce qui l'entour, c'est a dire comment il est crée vendu ect...
+
+Cela peu être positif car grace à la veille informatique on est au courant d'a peu près tout concernant un produit. 
+
+Mais il y a un très gros inconvénient à la veille technologique c'est que si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language, ou rien du tout dessus, tu doit te mettre a jour et cela peu prendre beaucoup de temps et si quelques mois après tout change, tu dois recommencer et te remettre a jour. 
+>>>>>>> c2fd8145fe987d306f2d7d8f0b84f514293c84ae
