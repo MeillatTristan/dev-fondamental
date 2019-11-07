@@ -44,9 +44,6 @@ Pour qu’il soit facile à lire il faut que les noms de variables et de fonctio
 
 ## La veille technologique : les avantages, inconvénients etc…
 
-<<<<<<< HEAD
-La veille informatique consiste à s'informer systématiquement sur les nouvelles technique récentes,les mise a jour. Les avantages de la veille technologique c'est d'être toujours au courant de ce que qui ce passe sur les dispositions commerciales sur les techniques récentes. Il y a surtout un très gros inconvénient a la veille technologique c'est qui si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language tu doit te mettre a jour dessus, et si quelque mois après tout change, tu dois encore te mettre a jour.
-=======
 La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation(piquer d'un site).
 
 Mais avec mes mots c'est plutot un procéde du faite de ce mettre a jour sur un produit, ce qui l'entour, c'est a dire comment il est crée vendu ect...
@@ -54,4 +51,3 @@ Mais avec mes mots c'est plutot un procéde du faite de ce mettre a jour sur un 
 Cela peu être positif car grace à la veille informatique on est au courant d'a peu près tout concernant un produit. 
 
 Mais il y a un très gros inconvénient à la veille technologique c'est que si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language, ou rien du tout dessus, tu doit te mettre a jour et cela peu prendre beaucoup de temps et si quelques mois après tout change, tu dois recommencer et te remettre a jour. 
->>>>>>> c2fd8145fe987d306f2d7d8f0b84f514293c84ae
