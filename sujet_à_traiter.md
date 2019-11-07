@@ -1,55 +1,57 @@
- ## DiffÃ©rents mÃ©tier de lâ€™informatique
+ ## différents métier de l’informatique
 
-En informatique les mÃ©tiers sont regroupÃ©s en plusieurs grande catÃ©gories comme le dÃ©veloppement informatique ou encore le rÃ©seau, le digital, la sÃ©curitÃ© informatique.
+En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
 
-Dans le dÃ©veloppement informatique il y a les dÃ©veloppeurs web, dâ€™application ou logiciel. Dans les dÃ©veloppeurs informatiques il y a les Back end qui sont les dÃ©veloppeurs qui vont Ãªtre chargÃ©s que le site fonctionne et les front end qui ceux vont Ãªtre chargÃ©s de la mise en page du site.
+Dans le développement informatique il y a les développeur web, d’application ou logiciel. Dans les développeur informatique il y a les Back end qui sont les développeur qui vont être chargés que le site fonctionne et les front end qui eux vont être chargés de la mise en page du site.
 
-Les informaticiens rÃ©seaux, sâ€™occupe des bases de donnÃ©es, du rÃ©seau internet.
-Le digital est la pour mettre en forme et crÃ©er un designs qui va Ãªtre utilisÃ© avec ce que fait le dÃ©veloppeur pour crÃ©er quelque chose de â€œfiniâ€.
+Les informaticiens réseaux, s’occupe des bases de données, du réseau internet.
+Le digital est la pour mettre en forme et créer un designs qui va être utilisé avec ce que fait le développeur pour créer quelque chose de “fini”.
 
-La sÃ©curitÃ© informatique fait aussi parti de lâ€™informatique maintenant car beaucoups de personnes utilisent internet, se connecte Ã  des sites, et entre des choses confidentiel et donc cela doit Ãªtre protÃ©gÃ©es, mÃªme les codes utilisÃ©s pour faire des pages informatiques ou encore des jeux doivent Ãªtre sÃ©curisÃ©es pour Ã©viter tout vole ou usurpation dâ€™identitÃ©. Les informaticiens qui sont formÃ©s pour la sÃ©curitÃ© sont trÃ¨s import pour le bon fonctionnement dâ€™un site ou dâ€™un jeu.
+La sécurité informatique fait aussi parti de l’informatique maintenant car beaucoup de personne utilise internet se connecte à des sites entre des choses confidentiel et donc cela doit être protéger, même les codes utiliser pour faire des pages informatique ou encore des jeux doivent être sécurisé pour éviter tout vole ou usurpation d’identité. Les informaticiens qui sont formés pour la sécurité sont très import pour le bon fonctionnement d’un site ou d’un jeu.
+
+## different langages de l'informatique 
+
+Java reprend en grand partie la syntaxe du C++ mais est plus subtile. Crée en 23 mai 1995 par la compagnie Sun Microsystems. Java à influencé plein d'autre langage comme Python, PHP, C#, JavaScript et encore plein d'autre mais il sait aussi inspiré d'autre langage comme C++ et d'autre encore. C'st un langage compilé
+
+ Javascript est un langage de programmation de script employé pour les pages webs interactive. En grande majorités des utilisés dans les pages web mais les navigateurs web l'utilise aussi. Le JavaScript est un langage de programmation interprété, c'est-à-dire qu'il a besoin d'un interpréteur pour pouvoir être exécuté. Il à été crée  en mai 1995 par Brendan Eich
+ C'est un langage de haut niveau.
+
+Python est un langage de programmation multi-platforme. Il est conçu pour optimiser la productivité des programmeurs en offrant des outils de haut niveau et une syntaxe simple à utiliser. C'est un langage de bas niveau. Le langage à été crée en 1989 par Guido van Rossum. Python est un langage interprété. 
+
+C++ est un langage de programmation compilé. C'est un langage permettant de rendre les sites web plus  C++ est crée au cours des années 1980 par Bjarne Stroustrup. C'est un langage de haut niveau
+
+C# (C sharp) est un langage derivée de c++ et est très proche du java. Il est utilisé pour faire des applications web, applications bureau et services web. C# est un langage de haut niveau    
+
+C est un langage de bas niveau inventé dans les années 1972 par Dennis Ritchie et Ken Thompson. Un des langages les plus utilisés au jour d'aujourd'hui. Il permet d'améliorer la mise en page d'une page web 
+
+PHP 
+
+HTML 
+
+Arduino
 
 
 
+## Les différents IDE
 
+Les IDE (environnement de développement intégré)  sont des outils qui facilitent la tâche des programmeurs. Ils ont tous une interface graphique et un éditeur de texte. Ils peuvent aussi permettent la coloration syntaxique en fonction du  langage, l’auto-complétion, des plugins etc …
 
+Parmis les plus connu nous avons Visual Studio Code, Sublim text 3, atom notepad++, xCode, vim ou encore emacs. Il en existe des centaines ce n’est donc pas possible de tous les cités.
 
+VSC est l’IDE de microsoft permet par exemple l'installation d’extension qui sont très pratique pour personnaliser son IDE. Il en existe pour tout, nouveau thème de coloration, ajout de marque-page, prise en charge de nouveaux langage etc… il en existe des centaines et pour tout. De plus il est gratuit et possède une grande communauté réactive.
 
+Sublim Text est très puissant car il supporte de nombreux language et a aussi des fonctionnalités utiles comme la sélection verticale  . Il permet aussi l’installation de plugins pour personnaliser son IDE. ST est aussi disponible sur la plupart des système d’exploitation en étant gratuit.
 
+Notepad++ est un IDE gratuit et opensource multi-plateforme. Il possède une interface utilisateur personnalisable, beaucoup de plugins sont disponibles. Il y a aussi la présence de Macro qui permettent d’enregistrer des opérations complexes qui peuvent être automatiquement répétés afin de ne pas avoir à les faire manuellement. Il possède quand même quelques défauts comme son design qui déplait à beaucoup. Sa gestion des plugins est aussi peu agréable à utilisé et ne fonctionne pas en version 64bits.
 
-## Les diffÃ©rents IDE
+Atom est aussi gratuit et opensource. Il est un peu moins performant que ST par exemple mais possède quelques avantages comme sa configuration qui est facile et pratique car versionable avec git. Il possède aussi un beau thème de base et est agréable à voir.
 
-Les IDE (environnement de dÃ©veloppement intÃ©grÃ©)  sont des outils qui facilitent la tÃ¢che des programmeurs. Ils ont tous une interface graphique et un Ã©diteur de texte. Ils peuvent aussi permettent la coloration syntaxique en fonction du  langage, lâ€™auto-complÃ©tion, des plugins etc â€¦
+Xcode quant à lui est un IDE propre à Apple qui permet de programmer sur ses appareils en Objective-C, Ruby et Swift notament grâce à l’API cocoa. Il est utile pour programmer pour les supports mobiles.
 
-Parmis les plus connu nous avons Visual Studio Code, Sublim text 3, atom notepad++, xCode, vim ou encore emacs. Il en existe des centaines ce nâ€™est donc pas possible de tous les citÃ©s.
-
-VSC est lâ€™IDE de microsoft permet par exemple l'installation dâ€™extension qui sont trÃ¨s pratique pour personnaliser son IDE. Il en existe pour tout, nouveau thÃ¨me de coloration, ajout de marque-page, prise en charge de nouveaux langage etcâ€¦ il en existe des centaines et pour tout. De plus il est gratuit et possÃ¨de une grande communautÃ© rÃ©active.
-
-Sublim Text est trÃ¨s puissant car il supporte de nombreux language et a aussi des fonctionnalitÃ©s utiles comme la sÃ©lection verticale  . Il permet aussi lâ€™installation de plugins pour personnaliser son IDE. ST est aussi disponible sur la plupart des systÃ¨me dâ€™exploitation en Ã©tant gratuit.
-
-Notepad++ est un IDE gratuit et opensource multi-plateforme. Il possÃ¨de une interface utilisateur personnalisable, beaucoup de plugins sont disponibles. Il y a aussi la prÃ©sence de Macro qui permettent dâ€™enregistrer des opÃ©rations complexes qui peuvent Ãªtre automatiquement rÃ©pÃ©tÃ©s afin de ne pas avoir Ã  les faire manuellement. Il possÃ¨de quand mÃªme quelques dÃ©fauts comme son design qui dÃ©plait Ã  beaucoup. Sa gestion des plugins est aussi peu agrÃ©able Ã  utilisÃ© et ne fonctionne pas en version 64bits.
-
-Atom est aussi gratuit et opensource. Il est un peu moins performant que ST par exemple mais possÃ¨de quelques avantages comme sa configuration qui est facile et pratique car versionable avec git. Il possÃ¨de aussi un beau thÃ¨me de base et est agrÃ©able Ã  voir.
-
-Xcode quant Ã  lui est un IDE propre Ã  Apple qui permet de programmer sur ses appareils en Objective-C, Ruby et Swift notament grÃ¢ce Ã  lâ€™API cocoa. Il est utile pour programmer pour les supports mobiles.
-
-Vim et Emacs sont des Ã©diteurs disponible depuis le CMD sur Unix. Ils sont peut Ãªtre plus difficile Ã  utiliser au dÃ©but car trÃ¨s diffÃ©rent des Ã©diteurs de textes classiques.
-
-Il y a aussi tous les IDE de jetbrains qui eux sont payant. Chaqu'un d'eux sont spÃ©cialisÃ© pour un language de programmation, on peut notamment citer PHPStorm, PyCharm ou encore WebStorm. Chacun est trÃ¨s puissant pour le language dans lequel il est spÃ©cialisÃ©, le seul dÃ©faut Ã©tant qu'on ne peut pas coder dans beaucoup de language.
+Vim et Emacs sont des éditeurs disponible depuis le CMD sur Unix. Ils sont peut être plus difficile à utiliser au début car très différent des éditeurs de textes classiques.
 
 ## Les bonnes pratiques du code informatique
 
-Un code se doit dâ€™Ãªtre comprÃ©hensible par ceux ne lâ€™ayant pas Ã©crit. Il doit donc Ãªtre facile Ã  lire, Ãªtre organisÃ©, Ãªtre explicite et Ãªtre soignÃ©.
-Pour quâ€™il soit facile Ã  lire il faut que les noms de variables et de fonction soient explicite pour bien sâ€™y retrouver lorsquâ€™on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle. Il faut aussi penser aux commentaires, afin d'aider Ã  la relecture.
+Un code se doit d’être compréhensible par ceux ne l’ayant pas écrit. Il doit donc être facile à lire, être organisé, être explicite et être soigné.
+Pour qu’il soit facile à lire il faut que les noms de variables et de fonction soient explicite pour bien s’y retrouver lorsqu’on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle. Il faut aussi penser aux commentaires, afin d'aider à la relecture.
 
-Tout ceci sont des pratiques gÃ©nÃ©rales mais chaque language Ã  ses propres conventions. Par exemple le python Ã  la sienne qui s'appelle PEP.
-
-## La veille technologique : les avantages, inconvÃ©nients etcâ€¦
-
-La veille technologique est une activitÃ© qui met en Å“uvre des techniques dâ€™acquisition, de stockage et dâ€™analyse dâ€™informations, concernant un produit ou un procÃ©dÃ©, sur lâ€™Ã©tat de lâ€™art et lâ€™Ã©volution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre dâ€™anticiper les Ã©volutions, et qui vont faciliter lâ€™innovation(piquer d'un site).
-
-Mais avec mes mots c'est plutot un procÃ©de du faite de ce mettre a jour sur un produit, ce qui l'entour, c'est a dire comment il est crÃ©e vendu ect...
-
-Cela peu Ãªtre positif car grace Ã  la veille informatique on est au courant d'a peu prÃ¨s tout concernant un produit. 
-
-Mais il y a un trÃ¨s gros inconvÃ©nient Ã  la veille technologique c'est que si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language, ou rien du tout dessus, tu doit te mettre a jour et cela peu prendre beaucoup de temps et si quelques mois aprÃ¨s tout change, tu dois recommencer et te remettre a jour. 
