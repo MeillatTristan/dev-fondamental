@@ -40,3 +40,6 @@ Vim et Emacs sont des éditeurs disponible depuis le CMD sur Unix. Ils sont peut
 Un code se doit d’être compréhensible par ceux ne l’ayant pas écrit. Il doit donc être facile à lire, être organisé, être explicite et être soigné.
 Pour qu’il soit facile à lire il faut que les noms de variables et de fonction soient explicite pour bien s’y retrouver lorsqu’on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle. Il faut aussi penser aux commentaires, afin d'aider à la relecture.
 
+## La veille technologique : les avantages, inconvénients etc… 
+
+La veille informatique consiste à s'informer systématiquement sur les nouvelles technique récentes,les mise a jour. Les avantages de la veille technologique c'est d'être toujours au courant de ce que qui ce passe sur les dispositions commerciales sur les techniques récentes. Il y a surtout un très gros inconvénient a la veille technologique c'est qui si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language tu doit te mettre a jour dessus, et si quelque mois après tout change, tu dois encore te mettre a jour. 
