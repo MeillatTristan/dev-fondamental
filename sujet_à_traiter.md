@@ -1,3 +1,5 @@
+Travail de : Alex Beurthe, Kylian Belnou et Tristan Meillat
+ 
  ## différents métier de l’informatique
 
 En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
@@ -24,15 +26,13 @@ C++ est un langage de programmation compilé. C'est une amélioration du C, le C
 
 C# (C sharp) est un langage derivée de c++ et est très proche du java. Il est utilisé pour faire des applications web, applications bureau et services web. C# est un langage de haut niveau.
 
-
-
 PHP
 
 HTML
 
 HTML est un langage de balisage et il est interpété. Il à été crée en 1992 par l'entreprise World Wide Web
 
-Arduino est un langage compilé. Il a été crée par Arduino.cc 
+Arduino est un langage compilé. Il a été crée par Arduino.cc
 
 
 ## Les différents IDE
