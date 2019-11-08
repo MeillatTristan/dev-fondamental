@@ -33,9 +33,9 @@ HTML est un langage de balisage et il est interpété. Il à été crée en 1992
 
 ## Communautés
 
-Stack Overflow est créé en 2008 par Joel Spolsky et Jeff Atwood. Stack Overflow est un site web proposant des questions et réponses sur un large choix de thèmes concernant la programmation informatique. Il y a un système de point permettant au grand entreprise qui recrute de voir le niveau de la personne. Ce système permet de voir les personnes qui aident et aussi de savoir quel langage ils utilisent. 
+Stack Overflow est créé en 2008 par Joel Spolsky et Jeff Atwood. Stack Overflow est un site web proposant des questions et réponses sur un large choix de thèmes concernant la programmation informatique. Il y a un système de point permettant au grand entreprise qui recrute de voir le niveau de la personne. Ce système permet de voir les personnes qui aident et aussi de savoir quel langage ils utilisent.
 
-GitHub est un communauté informatique ou l'on peut faire des copier coller des programmes des autres. GitHub à été lancé le 10 avril 2008. GitHub est centré vers l'aspect social du développement permettant de travailler en groupent et ou l'on peut partager ses projets avec d'autres personnes.  
+GitHub est un communauté informatique ou l'on peut faire des copier coller des programmes des autres. GitHub à été lancé le 10 avril 2008. GitHub est centré vers l'aspect social du développement permettant de travailler en groupent et ou l'on peut partager ses projets avec d'autres personnes.
 
 ## Les différents IDE
 
