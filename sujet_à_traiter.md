@@ -62,7 +62,9 @@ On a aussi Android Studio qui est un IDE spécialisé dans l'android. Il facilit
 Un code se doit d’être compréhensible par ceux ne l’ayant pas écrit. Il doit donc être facile à lire, être organisé, être explicite et être soigné.
 Pour qu’il soit facile à lire il faut que les noms de variables et de fonction soient explicite pour bien s’y retrouver lorsqu’on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle. Il faut aussi penser aux commentaires, afin d'aider à la relecture.
 
-## La veille technologique : les avantages, inconvénients etc… 
+Tout ceci sont des pratiques générales mais chaque language à ses propres conventions. Par exemple le python à la sienne qui s'appelle PEP.
+
+## La veille technologique : les avantages, inconvénients etc…
 
 La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation(piquer d'un site).
 
