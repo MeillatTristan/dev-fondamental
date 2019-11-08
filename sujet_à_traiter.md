@@ -24,16 +24,18 @@ C++ est un langage de programmation compilé. C'est une amélioration du C, le C
 
 C# (C sharp) est un langage derivée de c++ et est très proche du java. Il est utilisé pour faire des applications web, applications bureau et services web. C# est un langage de haut niveau.
 
-
-
-PHP
-
-HTML
+PHP est utilisé pour produire des pages Web dynamiques. C'est un langage interprété. Le langage PHP a été créé en 1994 par Rasmus Lerdorf pour son site web. Le PHP est un langage compilé
 
 HTML est un langage de balisage et il est interpété. Il à été crée en 1992 par l'entreprise World Wide Web
 
 Arduino est un langage compilé. Il a été crée par Arduino.cc 
 
+
+##Communautés
+
+Stack Overflow est créé en 2008 par Joel Spolsky et Jeff Atwood. Stack Overflow est un site web proposant des questions et réponses sur un large choix de thèmes concernant la programmation informatique. Il y a un système de point permettant au grand entreprise qui recrute de voir le niveau de la personne. Ce système permet de voir les personnes qui aident et aussi de savoir quel langage ils utilisent. 
+
+github est un communauté informatique ou l'on peut se faire 
 
 ## Les différents IDE
 
