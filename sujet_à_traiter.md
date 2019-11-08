@@ -1,5 +1,5 @@
 Travail de : Alex Beurthe, Kylian Belnou et Tristan Meillat
- 
+
  ## différents métier de l’informatique
 
 En informatique les métiers sont regroupés en plusieurs grande catégories comme le développement informatique ou encore le réseau, le digital, la sécurité informatique.
@@ -26,14 +26,16 @@ C++ est un langage de programmation compilé. C'est une amélioration du C, le C
 
 C# (C sharp) est un langage derivée de c++ et est très proche du java. Il est utilisé pour faire des applications web, applications bureau et services web. C# est un langage de haut niveau.
 
-PHP
+PHP est utilisé pour produire des pages Web dynamiques. C'est un langage interprété. Le langage PHP a été créé en 1994 par Rasmus Lerdorf pour son site web. Le PHP est un langage compilé
 
-HTML
+HTML est un langage de balisage et il est interpété. Il à été crée en 1992 par l'entreprise World Wide Web et permet de faire la structure d'une page web. Il est souvent combiné au CSS qui vient mettre en forme la structure de l'HTML.
 
-HTML est un langage de balisage et il est interpété. Il à été crée en 1992 par l'entreprise World Wide Web
 
-Arduino est un langage compilé. Il a été crée par Arduino.cc
+## Communautés
 
+Stack Overflow est créé en 2008 par Joel Spolsky et Jeff Atwood. Stack Overflow est un site web proposant des questions et réponses sur un large choix de thèmes concernant la programmation informatique. Il y a un système de point permettant au grand entreprise qui recrute de voir le niveau de la personne. Ce système permet de voir les personnes qui aident et aussi de savoir quel langage ils utilisent.
+
+github est un communauté informatique ou l'on peut se faire
 
 ## Les différents IDE
 
@@ -60,5 +62,13 @@ On a aussi Android Studio qui est un IDE spécialisé dans l'android. Il facilit
 Un code se doit d’être compréhensible par ceux ne l’ayant pas écrit. Il doit donc être facile à lire, être organisé, être explicite et être soigné.
 Pour qu’il soit facile à lire il faut que les noms de variables et de fonction soient explicite pour bien s’y retrouver lorsqu’on lit le code. Il faut aussi bien indenter le code pour comprendre quelle ligne est dans quelle fonction/condition/boucle. Il faut aussi penser aux commentaires, afin d'aider à la relecture.
 
-La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation(piquer d'un site). Mais avec mes mots c'est plutot un procéde du faite de ce mettre a jour sur un produit, ce qui l'entour, c'est a dire comment il est crée vendu ect...Cela peu être positif car grasse a la veille informatique on est au courant d'a peu près tout concernant un produit. Mais il y a un très gros inconvénient a la veille technologique c'est qui si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language, ou rien du tout dessus, tu doit te mettre a jour,et cela peu prendre beaucoup de temps et si quelque mois après tout change, tu dois recommencer et te remettre a jour.
+## La veille technologique : les avantages, inconvénients etc… 
+
+La veille technologique est une activité qui met en œuvre des techniques d’acquisition, de stockage et d’analyse d’informations, concernant un produit ou un procédé, sur l’état de l’art et l’évolution de son environnement scientifique, technique, industriel ou commercial, afin de collecter, organiser, puis analyser et diffuser les informations pertinentes qui vont permettre d’anticiper les évolutions, et qui vont faciliter l’innovation(piquer d'un site).
+
+Mais avec mes mots c'est plutot un procéde du faite de ce mettre a jour sur un produit, ce qui l'entour, c'est a dire comment il est crée vendu ect...
+
+Cela peu être positif car grasse a la veille informatique on est au courant d'a peu près tout concernant un produit. Mais il y a un très gros inconvénient a la veille technologique c'est qui si tu veux te mettre un jour sur quelque chose ou tu ne connais pas le language, ou rien du tout dessus, tu doit te mettre a jour,et cela peu prendre beaucoup de temps et si quelque mois après tout change, tu dois recommencer et te remettre a jour.
+
+Pour faire de la veille technologique on peut s'abonner à un magasine ou encore suivre des comtes sur Twitter ou Facebook.
 
